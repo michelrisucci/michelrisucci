@@ -1,6 +1,6 @@
 <div>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=michelrisucci&show_icons=true&count_private=true&theme=algolia" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelrisucci&langs_count=5&theme=algolia" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=michelrisucci&show_icons=true&count_private=true&theme=gotham" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelrisucci&langs_count=5&theme=gotham" />
 </div>
 
 <div>
